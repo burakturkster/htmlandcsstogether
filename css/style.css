@@ -1,0 +1,169 @@
+/*******************************start***************************/
+
+/**********************site position*****************/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://marketplace.canva.com/EAFHm4JWsu8/1/0/1600w/canva-pink-landscape-desktop-wallpaper-HGxdJA_xIx0.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/*******************************nav***************************/
+.text-red {
+    color:rgb(255, 171, 93);
+}
+
+#logo {
+    margin-left: 800px;
+    width: 300px;
+    position: relative;
+}
+
+#main-logo {
+    margin-left: 700px;
+    width: 500px;
+    position: relative;
+}
+
+
+.ff-bebas {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.text-center {
+    text-align: center;
+}
+
+a {
+    font-size: 20px;
+}
+
+#nav-ul {
+    list-style-position: inside
+    
+}
+
+#Homepage, #Shop, #About {
+    list-style-type: none;
+    display: inline;  
+}
+
+ol, ul {
+    padding: -10px;
+}
+
+ul, li {
+    margin: 5px;
+}
+
+/*******************************article***************************/
+
+#homepagetext {
+text-align: center;
+margin: 10px;
+font-family: 'Tilt Warp', cursive;
+list-style-type: none;
+color:#CD5C5C
+}
+
+#caravancom {
+    list-style-type: none;
+    font-family: 'Playfair Display', serif;
+
+}
+
+/*******************************homepack***************************/
+
+#baslik-ul {
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+.stayoncenter-ul-black {
+    margin: 10px;
+    font-family: 'Tilt Warp', cursive;
+    text-align: center;
+    list-style-position:inside;
+    list-style-type:disc;
+    background-color: rgba(243, 243, 243, 0.404);
+    color: rgb(0, 0, 0);  
+}
+
+.stayoncenter-ul {
+    margin: 10px;
+    font-family: 'Tilt Warp', cursive;
+    text-align: center;
+    list-style-position:inside;
+    list-style-type:disc;
+    background-color: rgba(243, 243, 243, 0.404);
+    color: rgb(40, 40, 124);  
+}
+
+.stayoncenter-ol {
+    margin: 10px;
+    font-family: 'Tilt Warp', cursive;
+    text-align: center;
+    list-style-position:inside;
+    list-style-type:none
+}
+
+/*******************************shop***************************/
+
+#iveco {
+    margin: 10px;
+    height: 250px;
+    border-radius: 3cm;
+}
+
+#campervan {
+    margin: 10px;
+    height: 250px;
+    border-radius: 5cm;
+
+}
+
+#cekmevan {
+    margin: 10px;
+    height: 250px;
+    border-radius: 5cm;
+
+}
+
+.van-title {
+    background-color: rgba(243, 243, 243, 0.404);
+    color: rgb(40, 40, 124);
+    border-radius: 3cm;
+    
+}
+
+/*******************************about***************************/
+
+.about-ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+.baslik-ul {
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+#visiontext {
+    text-align: center;
+    margin: 10px;
+    font-family: 'Tilt Warp', cursive;
+    list-style-type: none;
+    color:#CD5C5C
+}
+
+/*******************************end***************************/
